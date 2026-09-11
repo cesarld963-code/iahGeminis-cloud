@@ -1,6 +1,6 @@
 # iahGeminis Cloud
 
-> Plataforma inteligente de integración con IA basada en Google Cloud Platform y Google AI Studio.
+> Plataforma inteligente de integración con IAH basada en Google Cloud Platform y Google AI Studio.
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09-brightgreen)]()
